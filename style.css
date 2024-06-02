@@ -101,6 +101,7 @@ body {
 footer {
   margin: 0 0 40px 0;
 }
+cursor: url('pointer.cur'), auto;
 .button-link {
   box-sizing: border-box;
   display: flex;

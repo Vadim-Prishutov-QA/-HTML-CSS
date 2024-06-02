@@ -119,6 +119,7 @@ cursor: url('pointer.cur'), auto;
 
   color: #0e3b0e;
   text-decoration: none;
+  cursor: url('pointer.cur'), auto;
 }
 
 .button-link:hover {
